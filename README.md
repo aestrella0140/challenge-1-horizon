@@ -62,4 +62,4 @@ SOFTWARE.
 ## Deployment links
 github repo - https://github.com/aestrella0140/challenge-1-horizon
 
-deployed application - 
+deployed application - https://aestrella0140.github.io/challenge-1-horizon/
