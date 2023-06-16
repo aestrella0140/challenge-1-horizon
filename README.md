@@ -54,3 +54,12 @@ SOFTWARE.
 -Alt atributes to all images for screen readers.
 
 
+## Mock-up img
+![alt horiseon website](assets/images/Horiseon-mock-up.png)
+
+
+
+## Deployment links
+github repo - https://github.com/aestrella0140/challenge-1-horizon
+
+deployed application - 
